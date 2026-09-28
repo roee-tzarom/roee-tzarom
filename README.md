@@ -24,3 +24,12 @@ Each repository has a README with architecture, setup and implementation scope. 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/roee-tzarum/) · [Email](mailto:roeetzarum2002@gmail.com)
+
+
+## Where to start
+
+For backend and networking roles, begin with the reliable-UDP simulator: its code and packet captures show how session setup, ACKs, retransmission and window updates behave. For systems roles, the concurrent-bank simulator demonstrates how processes, threads, shared memory and synchronization interact under a workload. For C++ roles, modules 07–11 of the portfolio show templates, STL work, compile-time techniques and explicit ownership. The Java game and spreadsheet show longer object-oriented flows with a visible result.
+
+## Repository guide
+
+The selected projects above are the most complete demonstrations. Smaller repositories contain focused course exercises in C, Java and Python, including a TCP sliding-window lab and a JSON-over-TCP calculator/proxy. Each README explains how to run its code and states its limits. This profile is intended to make the work easy to verify: start with the README, follow the referenced entry point, and inspect the tests or packet captures where available.
