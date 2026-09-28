@@ -1,51 +1,26 @@
-# Hi, I'm Roee Tzarum 👋
+# Roee Tzarum
 
-### Computer Science Student | Software Developer | Networking Enthusiast
+Computer Science student at Ariel University, interested in backend development, networking and systems programming. I build small protocols and applications to understand how software behaves beyond the happy path.
 
-I am a second-year B.Sc. Computer Science student at Ariel University, selected for the University Excellence Track. I enjoy turning strong fundamentals in algorithms, object-oriented programming, and computer networks into clear, practical software.
+## Selected work
 
-- 🔭 **Currently building:** Python networking projects, socket-based protocols, and Java applications.
-- 🎓 **Education:** B.Sc. in Computer Science, Ariel University (expected 2027) - University Excellence Track.
-- 🌐 **Focus areas:** Computer Networks, Backend Development, Algorithms, Data Structures, and OOP.
-- 🪖 **Service:** Completed full service in a classified IDF unit and continue active reserve duty.
-- 💡 **Goal:** Grow as a software developer by building reliable systems and learning from challenging projects.
+| Project | What I built | Stack |
+| --- | --- | --- |
+| [Reliable UDP Network Simulator](https://github.com/roee-tzarom/reliable-udp-network-simulator) | Local address/name-resolution flow plus TCP framing and a custom UDP transfer with ACKs, retransmission and a sliding window | Python, sockets, TCP/UDP, Wireshark |
+| [Concurrent Bank Simulator](https://github.com/roee-tzarom/concurrent-bank-simulator) | A multi-process, multithreaded account simulation with shared memory and synchronization | C, POSIX, Docker |
+| [Modern C++ Programming Portfolio](https://github.com/roee-tzarom/cpp-systems-programming-portfolio) | Eleven focused modules covering OOP, templates, STL algorithms and resource ownership | C++23, Make, doctest |
+| [Java Block Breaker](https://github.com/roee-tzarom/object-oriented-programming-java) | A multi-level game with collision handling, sprites, listeners, animation and scoring | Java, OOP |
+| [Java Foundations Projects](https://github.com/roee-tzarom/java-foundations-projects) | Coursework including a spreadsheet with formulas, cell references, cycle detection and a desktop GUI | Java, JUnit |
 
----
+Each repository has a README with architecture, setup and implementation scope. Smaller exercises are also available in my [repositories](https://github.com/roee-tzarom?tab=repositories).
 
-### 📂 Featured Projects
+## Technical interests
 
-#### 🌐 [Reliable UDP Network Simulator](https://github.com/roee-tzarom/reliable-udp-network-simulator)
-- **Tech:** Python, sockets, TCP, UDP, DHCP, DNS, Wireshark
-- **Highlights:** Built a complete local-network simulation with a custom Reliable UDP protocol, Go-Back-N retransmission, and AIMD congestion control.
+**Languages:** C++, C, Java, Python
 
-#### 🎬 [Reliable UDP Video Transfer](https://github.com/roee-tzarom/reliable-udp-video-transfer)
-- **Tech:** Python, UDP, socket programming
-- **Highlights:** A client-server prototype for reliable video transfer over UDP, including retransmission and packet utilities.
+**Areas:** networking protocols, concurrency, data structures, object-oriented design
+**Tools:** Git, Linux/WSL, Docker, Wireshark
 
-#### ☕ [Java Foundations Projects](https://github.com/roee-tzarom/java-foundations-projects)
-- **Tech:** Java, OOP, data structures
-- **Highlights:** Coursework portfolio with a spreadsheet engine, number-base utilities, geometry, and data-structure implementations.
+## Contact
 
----
-
-### 🛠️ Technical Skills
-
-**Languages:** Python · Java · C  
-**Core concepts:** Object-Oriented Programming · Data Structures · Algorithms · Computer Architecture  
-**Networking:** TCP/UDP sockets · Network protocols · Wireshark · Client-server architecture  
-**Tools:** Git · GitHub · Linux · IntelliJ IDEA · PyCharm · CLion
-
----
-
-### 📊 GitHub Stats
-
-![Roee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roee-tzarom&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roee-tzarom&layout=compact&theme=radical&hide_border=true)
-
----
-
-### 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-roee--tzarum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roee-tzarum/)
-[![Email](https://img.shields.io/badge/Email-roeetzarum2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roeetzarum2002@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/roee-tzarum/) · [Email](mailto:roeetzarum2002@gmail.com)
